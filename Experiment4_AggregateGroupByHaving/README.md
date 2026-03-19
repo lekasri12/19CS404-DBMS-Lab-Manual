@@ -36,9 +36,6 @@ GROUP BY column_name
 HAVING condition;
 ```
 ## Submission:
-
-#### Vimala Rani A - 212223040240
-
 **Question 1**
 --
 ![Screenshot 2025-04-30 201427](https://github.com/user-attachments/assets/63bb895f-f794-4489-9ba2-6609ce2893e1)

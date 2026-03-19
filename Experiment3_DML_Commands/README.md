@@ -47,9 +47,6 @@ SELECT column1, column2 FROM table_name WHERE condition;
 ```
 
 ### Submission:
-
-### VIMALA RANI A - 212223040240
-
 #### Question 1
 
 ![image](https://github.com/user-attachments/assets/b121fb43-3052-40f7-9940-f57a79a0d543)

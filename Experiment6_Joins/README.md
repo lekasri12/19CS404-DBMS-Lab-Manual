@@ -52,9 +52,6 @@ FULL OUTER JOIN table2
 ON table1.column = table2.column;
 ```
 #### SUBMISSION
-
-Vimala Rani A - 212223040240
-
 **Question 1**
 --
 ![Screenshot 2025-05-03 115259](https://github.com/user-attachments/assets/8398610f-fd62-45cc-94a4-248b47a69468)

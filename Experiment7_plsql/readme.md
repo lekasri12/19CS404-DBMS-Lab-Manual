@@ -26,7 +26,6 @@ END;
 - END: Marks the end of the PL/SQL block.
 
 # PL/SQL Programs – Steps and Expected Output
-## VIMALA RANI - 212223040240
 ## 1. Write a PL/SQL program to find the Greatest of Two Numbers
 
 ### Steps:

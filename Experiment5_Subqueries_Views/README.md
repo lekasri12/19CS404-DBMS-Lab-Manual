@@ -37,8 +37,6 @@ DROP VIEW view_name;
 ```
 #### SUBMISSION 
 
-Vimala Rani A - 212223040240
-
 **Question 1**
 --
 ![image](https://github.com/user-attachments/assets/89eb6b86-2a0b-4fe2-8f39-42140b508a6d)

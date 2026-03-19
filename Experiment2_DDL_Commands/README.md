@@ -102,9 +102,6 @@ CREATE TABLE Table_Name (
 );
 ```
 ## Submission:
-
-VIMALA RANI A - 212223040240
-
 #### Question 1
 
 ![image](https://github.com/user-attachments/assets/6f912c3e-1b4d-468a-b172-21be7ac9c87b)
